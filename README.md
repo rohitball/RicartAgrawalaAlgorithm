@@ -1,4 +1,4 @@
-# RicartAgrawalaAlgorithm
+# RicartAgrawalaAlgorithm in C
 Demonstration of Ricart Agrawala Algorithm
 
 The program assumes, the distributed system has 3 processes, with process ids 0, 1, and 2.
